@@ -1,0 +1,27 @@
+{
+  "name": "cutting.edge.team/laravel.webp.package",
+  "description": "webp package to convert images from png, jpg, svg or jpeg to a webp version",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "CuttingEdgeTeam\\LaravelWebpPackage\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "CuttingEdgeTeam\\LaravelWebpPackage\\": "tests/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Alesar Ismaeil",
+      "email": "alesar.esmaeel@gmail.com"
+    },
+    {
+      "name": "Hasan Ali",
+      "email": "hasn2022ali@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {}
+}
